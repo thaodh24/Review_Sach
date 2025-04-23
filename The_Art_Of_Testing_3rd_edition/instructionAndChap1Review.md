@@ -3,19 +3,23 @@
 
 ### Tầm quan trọng của kiểm thử phần mềm
 
-  Mở đầu cuốn sách đã nhấn mạnh một thực tế không thể thay đổi: từ năm 1979 đến nay, kiểm thử phần mềm chiếm khoảng **50% thời gian và chi phí** trong các dự án lập trình. Điều này cho thấy kiểm thử là yếu tố cốt lõi để đảm bảo chất lượng phần mềm, đặc biệt khi các lỗi tiềm ẩn có thể gây tổn thất tài chính hoặc nguy hại cho người dùng. Với lời văn nhẹ nhàng, không hoa mĩ, tác giả đã mở ra góc nhìn rộng rãi về ngành "Computer" nói chung và sức ảnh hưởng của chúng tới đời sống hiện nay của chúng ta. Tuy nhiên, dưới sụ phát triển của các ngôn ngữ lập trình, cũng như ngày càng nhiều các thư viện hỗ trợ việc phát triển phần mềm nhanh chóng và nhẹ nhàng hơn, Kiểm thử phần mềm dần bị xem nhẹ đi. 
+  Mở đầu cuốn sách đã nhấn mạnh một thực tế không thể thay đổi: từ năm 1979 đến nay, kiểm thử phần mềm chiếm khoảng **50% thời gian và chi phí** trong các dự án lập trình. Điều này cho thấy kiểm thử là yếu tố cốt lõi để đảm bảo chất lượng phần mềm, đặc biệt khi các lỗi tiềm ẩn có thể gây tổn thất tài chính hoặc nguy hại cho người dùng. Với lời văn nhẹ nhàng, không hoa mĩ, tác giả đã mở ra góc nhìn rộng rãi về ngành "Computer" nói chung và sức ảnh hưởng của chúng tới đời sống hiện nay của chúng ta. Tuy nhiên, dưới sự phát triển của các ngôn ngữ lập trình, cũng như ngày càng nhiều các thư viện hỗ trợ việc phát triển phần mềm nhanh chóng và nhẹ nhàng hơn, Kiểm thử phần mềm dần bị xem nhẹ đi. 
+
 
 ### Thực trạng kiểm thử phần mềm
   
-  Kiểm thử phần mềm vẫn được ví như “nghệ thuật bí ẩn” trong phát triển phần mềm, một lĩnh vực ít được hiểu biết và không được ưa chuộng. Dù có nhiều tài liệu hơn so với trước đây, kiểm thử vẫn đòi hỏi kỹ năng cao và sự tỉ mỉ. Tác giả chỉ ra rằng ngay cả các lập trình viên chuyên nghiệp cũng gặp khó khăn trong việc thiết kế các trường hợp kiểm thử toàn diện, như được minh họa qua bài kiểm tra tự đánh giá ở chương 1, như một lời nhắc nhở rằng các hệ thống phần mềm phức tạp đòi hỏi *sự cẩn trọng và kỹ năng* cao hơn nhiều.
+  Kiểm thử phần mềm vẫn được ví như “nghệ thuật đen tối” trong phát triển phần mềm, một lĩnh vực ít được hiểu biết và không quá phổ biến. Dù có nhiều tài liệu hơn so với trước đây, kiểm thử vẫn đòi hỏi kỹ năng cao và sự tỉ mỉ. Tác giả chỉ ra rằng ngay cả các lập trình viên chuyên nghiệp cũng gặp khó khăn trong việc thiết kế các trường hợp kiểm thử toàn diện, như được minh họa qua bài kiểm tra tự đánh giá ở chương 1, như một lời nhắc nhở rằng các hệ thống phần mềm phức tạp đòi hỏi *sự cẩn trọng và kỹ năng* cao hơn nhiều.
+
 
 ### Tiến bộ và thách thức trong kiểm thử
 
-  Kiểm thử phần mềm ngày nay vừa dễ hơn nhờ các công cụ và thư viện đã được kiểm thử trước, vừa khó hơn do sự đa dạng của ngôn ngữ lập trình, nền tảng và tính phổ biến của phần mềm. Cuốn sách nhấn mạnh rằng các lỗi không được phát hiện có thể gây hậu quả nghiêm trọng, từ tổn thất tài chính đến nguy hại cho người dùng, đòi hỏi QC/QA phải không ngừng học hỏi và áp dụng các phương pháp kiểm thử mới.
+  Kiểm thử phần mềm ngày nay vừa dễ hơn nhờ các công cụ và thư viện đã được kiểm thử trước, vừa khó hơn do sự đa dạng của ngôn ngữ lập trình, nền tảng và tính phổ biến của phần mềm. Cuốn sách nhấn mạnh rằng các lỗi không được phát hiện có thể gây hậu quả nghiêm trọng, từ tổn thất tài chính đến nguy hại cho người dùng, đòi hỏi người kiểm thử phải không ngừng học hỏi và áp dụng các phương pháp kiểm thử mới.
+
 
 ### Đối tượng độc giả
 
   Cuốn sách hướng đến những người trong ngành "Computer", không chỉ riêng gì những Kĩ thuật viên Kiểm Thử. Đối với dev, designer, BA hay PM, cuốn sách cung cấp 1 góc nhìn cụ thể hơn về khái niệm và công việc Kiểm Thử. Từ đó có góc nhìn toàn diện và khách quan hơn để đưa ra các ý kiến đa chiều. Với những Tester, QC, QA, cuốn sách là nguồn tài liệu góp phần củng cố và nâng cao chuyên môn để có thể phối hợp hiệu quả với các nhóm phát triển và nhóm quản lý, đưa chất lượng sản phầm tốt lên từng ngày.
+
 
 ### Nội dung phong phú của cuốn sách
 
